@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm Wei Yuanli. 👋
+
+ About Me
+- 🎓 I am a freshman studying Mathematics at ECNU.
+- 📚 I have taken courses in Discrete Geometry and Finite Group Representation Theory.
+- 🏆 My GPA for these subjects is **A**.
+
+Skills
+- Programming: C++,python,rust
+- Other Interests:tennis ball
+
+
+Goals
+- 🌱 I’m currently learning ODE.
+- 🎯 My goals are to win an award in the National Undergraduate Mathematical Modeling Competition.
+
+ Fun Fact
+- 😄 A fun fact about me is I am an Mongolian grown up in Inner Mongolia.
+
