@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Wei Yuanli. 👋
+Hello, I'm Wei Yuanli/蔚元利. 👋
 
  About Me
-- 🎓 I am a freshman studying Mathematics at ECNU.
+- 🎓 I am an undergraduate studying Mathematics at ECNU.
 - 📚 I have taken courses in Discrete Geometry and Finite Group Representation Theory.
 - 🏆 My GPA for these subjects is A.
 
