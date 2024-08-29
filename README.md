@@ -35,5 +35,5 @@ Goals
 - 🎯 My goals are to win an award in the National Undergraduate Mathematical Modeling Competition.
 
  Fun Fact
-- 😄 A fun fact about me is I am an Mongolian grown up in Baotou,Inner Mongolia.
+- 😄 A fun fact about me is that I am an Mongolian grown up in Baotou,Inner Mongolia.
 
