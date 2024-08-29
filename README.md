@@ -26,7 +26,7 @@ Skills
 - Other Interests:tennis ball
 
 Current address: 
--East China Normal University, 
+- East China Normal University, 
 
 500 Dongchuan Road, Shanghai 200241, People’s Republic of China 
 
@@ -35,5 +35,5 @@ Goals
 - 🎯 My goals are to win an award in the National Undergraduate Mathematical Modeling Competition.
 
  Fun Fact
-- 😄 A fun fact about me is that I am an Mongolian grown up in Baotou,Inner Mongolia.
+- 😄 A fun fact about me is that I am a Mongolian grown up in Baotou,Inner Mongolia.
 
