@@ -32,7 +32,7 @@ Current address:
 
 Goals
 - 🌱 I’m currently learning ODE.
-- 🎯 My goal is to win an award in the CUMCA .
+- 🎯 My goal is to win an award in the CUMCM .
 
  Fun Fact
 - 😄 A fun fact about me is that I am a Mongolian grown up in Baotou,Inner Mongolia.
