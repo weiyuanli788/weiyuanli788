@@ -19,10 +19,10 @@ Hello, I'm Wei Yuanli/蔚元利. 👋
  About Me
 - 🎓 I am an undergraduate studying Mathematics at ECNU.
 - 📚 I have taken courses in Discrete Geometry and Finite Group Representation Theory.
-- 🏆 My GPA for these subjects is A.
+- 🏆 My GPA for the 2 subjects is A.
 
 Skills
-- Programming: C++,python,rust
+- Programming:python,learning C++ now
 - Other Interests:tennis ball
 
 Current address: 
@@ -32,7 +32,7 @@ Current address:
 
 Goals
 - 🌱 I’m currently learning ODE.
-- 🎯 My goals are to win an award in the National Undergraduate Mathematical Modeling Competition.
+- 🎯 My goal is to win an award in the CUMCA .
 
  Fun Fact
 - 😄 A fun fact about me is that I am a Mongolian grown up in Baotou,Inner Mongolia.
