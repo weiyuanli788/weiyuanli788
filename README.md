@@ -22,7 +22,7 @@ Hello, I'm Wei Yuanli/蔚元利. 👋
 - 🏆 My GPA for the 2 subjects is A.
 
 Skills
-- Programming:python,learning C++ now
+- Programming:python, C++ 
 - Other Interests:tennis ball
 
 Current address: 
@@ -30,10 +30,5 @@ Current address:
 
 500 Dongchuan Road, Shanghai 200241, People’s Republic of China 
 
-Goals
-- 🌱 I’m currently learning ODE.
-- 🎯 My goal is to win an award in the CUMCM .
 
- Fun Fact
-- 😄 A fun fact about me is that I am a Mongolian grown up in Baotou,Inner Mongolia.
 
